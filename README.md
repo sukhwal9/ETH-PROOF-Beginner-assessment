@@ -1,4 +1,4 @@
-# SolidityBeginnerAssessment
+# ETH-PROOF-Beginner-assessment
 This program show how to make tokens in remix.ethereum.org 
 
 ## Create a Token
