@@ -24,11 +24,11 @@ The `burnToken` function is the opposite: it decreases the balance of the addres
 
 - Then Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension. Copy and paste `NileshCoin.sol` into the file.
 
-- To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile NileshCoin.sol" button.
+- To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the Compile "NileshCoin.sol" button.
 
 - Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the `MyToken` contract from the dropdown menu, then click the "Deploy" button.
 
-- Now at the left bottom side of the page, there is a section called "Deployed Contracts". below that, as you can see contract is deployed and by clicking into MyTToken there are functions like burnToken, mintToken which will burn and mint coin respectively after that wallet button will give a balance of the address that you put into the text field on the right side of the button. further, 3 more buttons will provide the token name, its abbreviation and total supply.
+- Now at the left bottom side of the page, there is a section called "Deployed Contracts". below that, as you can see contract is deployed and by clicking into MyToken there are functions like burnToken, mintToken which will burn and mint coin respectively after that wallet button will give a balance of the address that you put into the text field on the right side of the button. further, 3 more buttons will provide the token name, its abbreviation and total supply.
 
 Thank you.
 
