@@ -9,7 +9,7 @@ The code can track of the total supply of coins, mint and burn tokens.
 
 `NileshCoin.sol` fulfills the requirements for creating a contract with Solidity features used:
 \
-Public variables that store information about the coin. These variables are the following: `tokenname`, `tokenabbrv`, and `totalsupply`. A public mapping variable named `wallet` to map addresses to wallet. The address is of the `address` data type, and the balance is of `uint` data type, or unsigned integer.
+Public variables that store information about the coin. These variables are the following: `tokenname`, `tokenabbr`, and `totalsupply`. A public mapping variable named `wallet` to map addresses to wallet. The address is of the `address` data type, and the balance is of `uint` data type, or unsigned integer.
 Unsigned integers are integers that cannot have a negative value.
 There are three functions, `mintToken`, `burnToken`, and `wallet`. 
 mint and burn functions take two arguments, an address and a value and wallet function take one arguments only address.
