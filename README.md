@@ -13,8 +13,8 @@ Public variables that store information about the coin. These variables are the 
 Unsigned integers are integers that cannot have a negative value.
 There are three functions, `mint`, `burn`, and `wallet`. 
 mint and burn functions take two arguments, an address and a value and wallet function take one arguments only address.
-The `mintToken` function increases the balance of the address by the value given, and increases the total supply.
-The `burnToken` function is the opposite: it decreases the balance of the address by the value given, and decreases the total supply.
+The `mint` function increases the balance of the address by the value given, and increases the total supply.
+The `burn` function is the opposite: it decreases the balance of the address by the value given, and decreases the total supply.
 
 ## Getting Started
 
